@@ -1,0 +1,6 @@
+/home/devilscream/mono/example/example/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/devilscream/mono/example/example/obj/x86/Debug/example.gtk-gui.gui.stetic
+/home/devilscream/mono/example/example/bin/Debug/example.exe.mdb
+/home/devilscream/mono/example/example/bin/Debug/example.exe
+/home/devilscream/mono/example/example/obj/x86/Debug/example.exe
+/home/devilscream/mono/example/example/obj/x86/Debug/example.exe.mdb
