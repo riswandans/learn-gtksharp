@@ -1,0 +1,12 @@
+/home/devilscream/ek/ek/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/devilscream/ek/ek/obj/x86/Debug/ek.gtk-gui.gui.stetic
+/home/devilscream/ek/ek/obj/x86/Debug/ek.exe
+/home/devilscream/ek/ek/obj/x86/Debug/ek.exe.mdb
+/home/devilscream/ek/ek/bin/Debug/ek.exe.mdb
+/home/devilscream/ek/ek/bin/Debug/ek.exe
+/home/devilscream/ek/Form_login/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/devilscream/ek/Form_login/obj/x86/Debug/ek.gtk-gui.gui.stetic
+/home/devilscream/ek/Form_login/bin/Debug/ek.exe.mdb
+/home/devilscream/ek/Form_login/bin/Debug/ek.exe
+/home/devilscream/ek/Form_login/obj/x86/Debug/ek.exe
+/home/devilscream/ek/Form_login/obj/x86/Debug/ek.exe.mdb
