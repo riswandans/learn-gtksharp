@@ -2,7 +2,7 @@
 
 Add this code to your project "program.cs"
 
-```
+```cs
 public class MessageBox 
 	{ 
 		public static void Show(Gtk.Window parent_window, DialogFlags flags, MessageType msgtype, ButtonsType btntype, string msg) 
@@ -24,13 +24,13 @@ public class MessageBox
 After that, at main you call class MessageBox
 
 Example
-```
+```cs
 MessageBox.Show ("Hello World");
 ```
 
 Example full code at main
 
-```
+```cs
 class MainClass
 	{
 		public static void Main (string[] args)
